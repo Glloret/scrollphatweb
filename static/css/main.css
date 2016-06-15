@@ -1,0 +1,12 @@
+
+.square {
+  width: 7.6%;
+  border: 3px solid black;
+  float: left;
+}
+.on {
+  background: yellow;
+}
+.off {
+  background: lightgray;
+}
